@@ -1,0 +1,66 @@
+Project,Machine,Hourly prod,orders of operations,Starting stock,Multiple operators?
+MACAN,110-Taglio,106.6666667,1,1500,1
+MACAN,225-Curvatrice e sep. Macan,56,2,500,1
+MACAN,320-Fresa Kitamura,57.6,3,800,1
+MACAN,410-Saldatrice Macan RH,40,4,600,1
+MACAN,420-Saldatrice Macan LH,40,4,150,1
+MACAN,910-Verniciatura INT,29.73333333,6,0,5
+MACAN,1010/1020 Controllo estetico,30,Final Step,0,2
+MACAN,PULITURA MACAN,22.5,5,0,2
+C118,110-Taglio,160,1,747,1
+C118,205-Curvatrice C118/X118,80,2,543,1
+C118,230-Separatrice C118/X118/a236,46.66666667,3,787,1
+C118,310-Fresa Mazak,53.33333333,4,653,1
+C118,610-Lucidatura,40,5,560,1
+C118,1010/1020 Controllo estetico,66.66666667,6,670,1
+C118,1040-Piantaggio vite e spina C/X118 RH,30,final step,0,1
+C118,1050-Piantaggio vite e spina C/X118 LH,30,final step,0,1
+X118,110-Taglio,160,1,750,1
+X118,205-Curvatrice C118/X118,80,2,685,1
+X118,230-Separatrice C118/X118/a236,46.666667,3,532,1
+X118,310-Fresa Mazak,53.33333333,4,767,1
+X118,610-Lucidatura,40,5,738,1
+X118,1010/1020 Controllo estetico,66.66666667,6,607,1
+X118,1040-Piantaggio vite e spina C/X118 RH,30,final step,0,1
+X118,1050-Piantaggio vite e spina C/X118 LH,30,final step,0,1
+X296,110-Taglio,106.6666667,1,559,1
+X296,220-Curvatrice X294/6,60,2,521,1
+X296,245-Separatrice X294/6,100,3,547,1
+X296,320-Fresa Kitamura,42.66666667,4,540,1
+X296,430-Saldatrice laser,106.6666667,5,700,1
+X296,610-Lucidatura,40,6,702,1
+X296,1080/1090-Imballaggio + controllo,40,Final Step,0,1
+X294,110-Taglio,106.6666667,1,775,1
+X294,220-Curvatrice X294/6,60,2,541,1
+X294,245-Separatrice X294/6,100,3,792,1
+X294,320-Fresa Kitamura,42.66666667,4,618,1
+X294,430-Saldatrice laser,106.6666667,5,600,1
+X294,610-Lucidatura,40,6,634,1
+X294,1080/1090-Imballaggio + controllo,40,Final Step,0,1
+C257,110-Taglio,160,1,767,1
+C257,210-Curvatrice C257/X290/A236,64,2,699,1
+C257,235-Separatrice C257/X290,62.66666667,3,753,1
+C257,320-Fresa Kitamura,57.6,4,782,1
+C257,1010/1020 Controllo estetico,66.66666667,5,676,1
+C257,1060-Piantaggio vite e spina C257/X290 RH,30,6,670,1
+C257,1100/1110-Controllo dimensionale,23.33333333,7,627,1
+C257,1080/1090-Imballaggio + controllo,66.66666667,Final step,0,1
+X290,110-Taglio,160,1,517,1
+X290,210-Curvatrice C257/X290/A236,64,2,579,1
+X290,235-Separatrice C257/X290,62.66666667,3,505,1
+X290,320-Fresa Kitamura,57.6,4,714,1
+X290,1010/1020 Controllo estetico,66.66666667,5,522,1
+X290,1060-Piantaggio vite e spina C257/X290 RH,30,6,790,1
+X290,1100/1110-Controllo dimensionale,23.33333333,7,734,1
+X290,1080/1090-Imballaggio + controllo,66.66666667,Final Step,0,1
+A236,110-Taglio,133.3333333,1,571,1
+A236,205-Curvatrice C118/X118,80,2,681,1
+A236,210-Curvatrice C257/X290/A236,66.66666667,3,546,1
+A236,230-Separatrice C118/X118/a236,40,4,521,1
+A236,610-Lucidatura,40,5,636,1
+A236,1080/1090-Imballaggio + controllo,66.66666667,Final Step,0,1
+Volvo,Stampa Plastica,200,1,608,1
+Volvo,Aplicazione Biadesivo + Imballagio,106.6666667,Final Step,0,3
+Volvo,Montaggio Clip,106.6666667,2,784,3
+LOOM,Stampa Plastica,400,1,616,1
+LOOM,Aplicazione Biadesivo + Imballagio,240,Final Step,0,3
